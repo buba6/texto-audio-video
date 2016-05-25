@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">texto-audio-video</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dos">dos</string>
+    <string name="title_activity_tres">tres</string>
+    <string name="title_activity_cuatro">cuatro</string>
+    <string name="title_activity_cinco">cinco</string>
+    <string name="title_activity_seis">seis</string>
+    <string name="title_activity_v1">v1</string>
+</resources>
